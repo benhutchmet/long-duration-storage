@@ -1,3 +1,8 @@
+# NetCDF/data files
+CLEARHEADS_data/*
+S2S4E_data/*
+saved_data/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
